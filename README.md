@@ -1,0 +1,2 @@
+# Bubble-Sort-Ruby
+This is a bubble sort algorithm using Ruby, made by Microverse students [Phemia Ampaire](https://github.com/ampaire) and [David Elí Martínez García](https://github.com/davitomix), as part of the Ruby Curriculum.
