@@ -12,7 +12,7 @@ def bubble_sort(arr)
     end
   end
   output = arr.join(', ')
-  return "[#{output}]"
+  "[#{output}]"
 end
 
 puts bubble_sort([4, 3, 78, 2, 0, 2])
